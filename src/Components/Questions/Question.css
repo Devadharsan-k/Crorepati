@@ -62,11 +62,6 @@
   cursor: pointer;
 }
 
-.answer:hover,
-.answer.active {
-  background: mediumblue;
-}
-
 .answer.correct {
   animation: correct 3s ease forwards;
 }
