@@ -23,7 +23,7 @@ export const QuestionsData = [
     id: 3,
     question: "What does CSS stand for?",
     answers: [
-      { text: "Counter Strike: Source", correct: false },
+      { text: "Counter Strike Source", correct: false },
       { text: "Cascading Style Sheets", correct: true },
       { text: "Computer Style Sheets", correct: false },
       { text: "Creative Style Sheets", correct: false },
