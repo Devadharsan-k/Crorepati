@@ -43,7 +43,7 @@ const Question = ({ setMoneyLevel }) => {
     setClassName("answer active");
     setTimeout(() => {
       setClassName(a.correct ? "answer correct" : "answer wrong");
-    }, 3500);
+    }, 800);
     setTimeout(() => {
       if (a.correct) {
         stopWait();
